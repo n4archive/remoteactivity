@@ -15,7 +15,7 @@
         android:theme="@style/Theme.RemoteActivity"
         tools:targetApi="31">
         <activity
-            android:name=".RemoteActivity"
+            android:name="android.app.RemoteActivity"
             android:exported="false"
             tools:ignore="MissingClass" />
         <activity
